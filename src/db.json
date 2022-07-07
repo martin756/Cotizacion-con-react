@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "title": "Task 1",
+        "responsible": "Mark",
+        "description": "lorem impsum",
+        "priority": "low"
+    },
+    {
+        "id": 2,
+        "title": "Task 2",
+        "responsible": "Ryan",
+        "description": "lorem impsum 2",
+        "priority": "medium"
+    },
+    {
+        "id": 3,
+        "title": "Task 3",
+        "responsible": "Joseph",
+        "description": "lorem impsum 3",
+        "priority": "high"
+    }
+]
